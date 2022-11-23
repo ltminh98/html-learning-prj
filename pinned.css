@@ -1,0 +1,22 @@
+#up {
+    font-size: 15px;
+    
+    width: 150px;
+    height: 50px;
+ 
+    color: White;
+    background-color: Crimson;
+    border: none;
+    
+    /* set position */
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+ }
+ 
+ /* for testing purpose */
+ .img-responsive {
+    width: 100%;
+    height: auto;
+ }
+ 

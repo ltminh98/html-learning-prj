@@ -1,0 +1,22 @@
+.carousel {
+    max-width: 800px;
+   
+    margin: 0 auto;
+   
+    position: relative;
+ }
+ 
+ .carousel > img {
+    width: 100%;
+    height: auto;
+   
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+ }
+ 
+ .carousel > .active {
+    z-index: 2;
+ }
+ 

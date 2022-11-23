@@ -1,0 +1,14 @@
+li { font-size: 26px; }
+#rose { color: rgb(102, 49, 49);
+font-size: 50px; }
+#clover { color: green; }
+#lotus { color: blue; }
+/* body {font-size: 10px !important;
+background-color: coral;
+color: goldenrod;} */
+.rose {
+    color: rgb(218, 18, 18) !important;
+}
+.dog {
+    color: blueviolet;
+}

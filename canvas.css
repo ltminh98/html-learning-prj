@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ 
+ body {
+    padding: 30px 15px;
+    background: lightgray;
+ }
+ 
+ #the-flag {
+    display: block;
+    width: 720px;
+    height: 480px;
+    margin: 0 auto;
+    box-shadow: 6px 12px 9px gray;
+ }
+ 

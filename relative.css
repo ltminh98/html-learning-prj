@@ -1,0 +1,26 @@
+.btn {
+    font-size: 15px;
+    
+    width: 150px;
+    height: 50px;
+ 
+    color: White;
+    background-color: DodgerBlue;
+    border: none;
+    
+    cursor: pointer;
+ }
+ 
+ .btn-label {
+    position: relative;
+    left: 4px;
+ }
+ 
+ .btn-icon {
+    font-weight: bold;
+    
+    position: relative;
+    top: 3px;
+    left: -5px;
+ }
+ 
